@@ -7,13 +7,11 @@
 
 ## 💡 About Me
 
-I’m a PhD researcher deeply interested in the intersection of **LLM alignment**, **secure computing**, and **metaheuristic optimization**. My work focuses on making AI systems more trustworthy, explainable, and human-aligned — especially for critical applications in **multimodal AI**, **remote sensing**, and **AI ethics**.
+Gautam Siddharth Kashyap is a PhD researcher at Macquarie University specializing in the alignment of Large Language Models (LLMs) via the HHH framework—Helpfulness, Harmlessness, and Honesty. His doctoral research focuses on developing principled methods to align LLMs with human values, leading to publications at EMNLP, etc.
 
-🔬 My current research aims to unlock the potential of large language models (LLMs) in real-world applications, especially for disaster response, classification tasks, and spatial data fusion.
+Starting with a strong foundation in computational intelligence and optimization, Gautam graduated top of his class with a B.Sc. in Computer Science, completing a thesis on “Vehicle Routing Optimization for Supply Chain Management Using RWPSO (Roulette Wheel Particle Swarm Optimization)”, followed by a Master’s in Computer Applications (MCA) with a thesis titled “Optimizing Artificial Neural Network Training Using Metaheuristics: A Comparative Study of PSO, Genetic Algorithms, and PSO–Stochastic Gradient Descent.” These works laid the foundation for his SCI, ESCI, and Scopus-indexed publications and book chapters with CRC Press and Springer.
 
-📚 I hold a **Bachelor’s in Computer Science** (highest GPA in class) and a **Master’s in Computer Applications**. My Master’s thesis on optimizing ANN training using metaheuristics was published, and since then I’ve co-authored publications in **SCI, ESCI, and Scopus** journals. I’ve also contributed to **Springer** and **CRC Press** book chapters.
-
-🛰️ My work has been presented at top-tier conferences including **ICASSP**, **EUSIPCO**, **Interspeech**, and **NAACL**.
+Beyond his doctoral research, Gautam also contributes to NLP for social good, focusing on the development of ethical, inclusive, and reliable AI systems. His work has been presented at leading venues such as IEEE TAI, EMNLP, NAACL, Interspeech, IEEE ICASSP, IEEE EUSIPCO, ASONAM, WISE, IGARSS, and Soft Computing. In addition to his research, Gautam actively serves the academic community as a peer reviewer for several top-tier journals and conferences, including ACL ARR, The Web Conference (WebConf), IJCNN, Journal of Big Data, Engineering Applications of Artificial Intelligence, Complex & Intelligent Systems, Computers & Electrical Engineering, Pattern Recognition Letters, and Natural Language Engineering.
 
 ---
 
